@@ -28,9 +28,6 @@
       <releases>
         <enabled>true</enabled>
       </releases>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
     </repository>
     <repository>
       <id>repository.spring.milestone</id>
